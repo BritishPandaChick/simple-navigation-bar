@@ -1,9 +1,11 @@
+/* Base Styles */
 body {
   font-family: sans-serif;
   text-align: center;
   background: #ccccff;
 }
 
+/* Navigation Bar */
 #nav {
   margin-top: 30px;
 }
