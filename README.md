@@ -1,11 +1,14 @@
 # Simple Navigation Bar
-Codeplayer simple navigation bar project. Made with HTML and CSS.
+A basic navigation bar sample
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. You will see a blue background with a navigation menu at the top center of the page with four menu items. When you hover over each item, you will see a hover effect.
 
 ## Acknowledgements
 * TheCodePlayer.com
